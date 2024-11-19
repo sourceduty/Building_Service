@@ -38,6 +38,10 @@ For those interested in developing custom web-based building maintenance program
 ### Related Links
 
 [Automated Locations](https://github.com/sourceduty/Automated_Locations)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
+<br>
+[Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
