@@ -10,6 +10,7 @@ The building system service module is at the core of the program, featuring capa
 The maintenance plan component automates scheduling and task assignment. Using Python's scheduling libraries, the program generates calendars for routine and preventative maintenance, assigning tasks based on priority and resource availability. Alerts and notifications ensure timely completion of tasks, and detailed reports allow building managers to track progress and costs effectively. Its adaptability extends to multi-property management, where users can scale the system to accommodate different building portfolios, ensuring streamlined operations across various locations. With a focus on future-proofing, the program is designed to integrate seamlessly with emerging technologies like AI-driven diagnostics and energy optimization tools.
 
 #
+### Buildings & Property
 
 - Residential buildings
 - Office buildings
