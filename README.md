@@ -1,4 +1,4 @@
-![Building Service](https://github.com/user-attachments/assets/1de4a9ff-8655-4cbe-9aa5-fb9073e642ee)
+![System](https://github.com/user-attachments/assets/abacfe23-be6a-4c58-808e-13935e7ebf22)
 
 > Customizable tool program for managing building services, system services, and maintenance plans.
 #
@@ -20,6 +20,8 @@ To review and manage your data, use the display_schedule method to see all sched
 
 #
 ### Assigned Hardware
+
+![Building Service](https://github.com/user-attachments/assets/1de4a9ff-8655-4cbe-9aa5-fb9073e642ee)
 
 Utilizing old hardware, used laptops, and small single-board computers like Raspberry Pi for running this building maintenance program offers a cost-effective and sustainable approach. These devices, repurposed from previous applications, can be assigned to specific work positions within a facility or property portfolio. For instance, a used laptop could act as a centralized workstation in the building manager’s office, while single-board computers can serve as dedicated nodes at remote sites. Such hardware is well-suited to run lightweight Python programs like this one, providing sufficient processing power to manage maintenance schedules, log data, and trigger alerts without requiring high-end specifications. This repurposing aligns with sustainability goals, extending the lifecycle of older devices while reducing electronic waste.
 
