@@ -46,6 +46,8 @@ For those interested in developing custom web-based building maintenance program
 [Structural Design](https://github.com/sourceduty/Structural_Design)
 <br>
 [Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br>
+[Rugged Storage Boxes](https://github.com/sourceduty/Rugged_Storage_Boxes)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
