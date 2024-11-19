@@ -10,6 +10,17 @@ The building system service module is at the core of the program, featuring capa
 The maintenance plan component automates scheduling and task assignment. Using Python's scheduling libraries, the program generates calendars for routine and preventative maintenance, assigning tasks based on priority and resource availability. Alerts and notifications ensure timely completion of tasks, and detailed reports allow building managers to track progress and costs effectively. Its adaptability extends to multi-property management, where users can scale the system to accommodate different building portfolios, ensuring streamlined operations across various locations. With a focus on future-proofing, the program is designed to integrate seamlessly with emerging technologies like AI-driven diagnostics and energy optimization tools.
 
 #
+
+- Residential buildings
+- Office buildings
+- Hospitals
+- Shopping malls
+- Educational institutions
+- Industrial facilities
+- Hotels and resorts
+- Public service buildings
+
+#
 ### Service Management
 
 ![Modern House Concept](https://github.com/user-attachments/assets/e49147bc-d903-4b95-95b4-bfa41c598e1f)
