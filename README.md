@@ -12,6 +12,8 @@ The maintenance plan component automates scheduling and task assignment. Using P
 #
 ### Service Management
 
+![Modern House Concept](https://github.com/user-attachments/assets/e49147bc-d903-4b95-95b4-bfa41c598e1f)
+
 To utilize this Python program for managing building services and maintenance schedules, begin by setting up the necessary environment. Install Python on your system if not already installed, and ensure you have the schedule library for task automation. Save the provided program code into a Python file, such as building_service_program.py. Open a terminal or command prompt, navigate to the directory containing the file, and run the program using the command python building_service_program.py. If you plan to schedule tasks and maintain persistent data, make sure the program is running continuously, or run it at regular intervals using a scheduler like cron on Unix-based systems or Task Scheduler on Windows.
 
 To add buildings and manage their systems, start by using the add_building method. This requires a unique building ID, building name, location, and a list of systems like HVAC, plumbing, or electrical. Once the building is registered, use the log_service method to add service history details, including the system serviced, the date of service, and any relevant notes. Maintenance tasks can be scheduled using the schedule_maintenance method, which takes the building ID, system name, task description, and the frequency in days. Run the program continuously to allow it to execute scheduled tasks automatically and display the corresponding updates in the terminal.
