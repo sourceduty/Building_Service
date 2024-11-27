@@ -33,6 +33,13 @@ To add buildings and manage their systems, start by using the add_building metho
 To review and manage your data, use the display_schedule method to see all scheduled tasks for each building. Save your progress regularly by calling the save_data method, which creates a JSON file with all the building and schedule information. To resume work or load previously saved data, use the load_data method with the appropriate JSON file. For real-time monitoring, keep the program active so that scheduled tasks run at the specified times. This setup ensures that all building services and maintenance tasks are organized efficiently, making it easy to manage even large property portfolios.
 
 #
+### Rugged Boxes
+
+![Boxes](https://github.com/user-attachments/assets/0a3236af-89ba-4073-bd31-caacd3774f8e)
+
+Rugged storage box organization for electronics is essential for protecting sensitive devices and ensuring accessibility in challenging environments. These configurations typically include modular compartments, customizable foam inserts, and shock-absorbing materials to securely house components like cables, circuit boards, and tools. Adjustable dividers allow flexibility to accommodate various sizes and shapes of electronics, while sealed lids provide water, dust, and impact resistance. Labeling systems and color-coded sections enhance organization, enabling quick identification of items during repairs or setups. Some designs incorporate anti-static materials to prevent damage to delicate components, making rugged storage boxes indispensable for field technicians and hobbyists alike.
+
+#
 ### Assigned Hardware
 
 ![Building Service](https://github.com/user-attachments/assets/1de4a9ff-8655-4cbe-9aa5-fb9073e642ee)
